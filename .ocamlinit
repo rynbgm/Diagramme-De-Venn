@@ -1,0 +1,12 @@
+open Proposition
+open Formule
+
+
+open Predicats
+open Formule_Syllogisme
+open DiagVenn
+open DiagToInterpretation
+open Enumerable
+open Test_diag
+open ContreEx
+open Validation
